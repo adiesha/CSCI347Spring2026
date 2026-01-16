@@ -6,8 +6,8 @@ Note: This is the tentative schedule and the syllabus of the class. This is subj
 
 | Week # 	|             Date            	| Lecture Topic                                                                                      	| Recommended reading 	| HW due 	|
 |:------:	|:---------------------------:	|----------------------------------------------------------------------------------------------------	|:-------------------:	|:------:	|
-|    1   	|  Tuesday, January 13, 2026  	| Course orientation, expectations. Material covered and tools needed.   Introduction to Data Mining 	|                     	|        	|
-|    1   	|  Thursday, January 15, 2026 	| Stats review + Data formats                                                                        	|                     	|        	|
+|    1   	|  Tuesday, January 13, 2026  	| Course orientation, expectations. Material covered and tools needed.   Introduction to Data Mining 	|    Ch 1              	|        	|
+|    1   	|  Thursday, January 15, 2026 	| Stats review + Data formats                                                                        	|    Ch 2             	|        	|
 |    2   	|  Tuesday, January 20, 2026  	| Linear Algebra review and distance measurements                                                    	|                     	|        	|
 |    2   	|  Thursday, January 22, 2026 	| More On Distance Measures And Similarity Measures, Basic python   Coding for Data Mining           	|      Chapter 3      	|        	|
 |    3   	|  Tuesday, January 27, 2026  	| Basics   Tutorials, Pandas Tutorials Part 1                                                        	|                     	|        	|
