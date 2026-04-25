@@ -33,8 +33,8 @@ Note: This is the tentative schedule and the syllabus of the class. This is subj
 |   13   	|    Tuesday, April 7, 2026   	| Decision tree coding examples                                                                      	|                     	|        	|
 |   13   	|   Thursday, April 9, 2026   	| Itemset Mining                                                                                     	|                     	|        	|
 |   14   	|   Tuesday, April 14, 2026   	| ItemSet Mining examples                                                                            	|                     	|        	|
-|   14   	|   Thursday, April 16, 2026  	| Mid term - This is tentative (The date is subjected to change)                                     	|                     	|        	|
-|   15   	|   Tuesday, April 21, 2026   	| Anomaly detection                                                                                  	|                     	|        	|
+|   14   	|   Thursday, April 16, 2026  	| Anomaly detection                                     	|                     	|        	|
+|   15   	|   Tuesday, April 21, 2026   	| Exam                                                                                  	|                     	|        	|
 |   15   	|   Thursday, April 23, 2026  	| Anomaly detection coding examples,    Recommender systems,  Recommender systems coding example     	|                     	|        	|
 |   16   	|   Tuesday, April 28, 2026   	| Presentations                                                                                      	|                     	|        	|
 |   16   	|   Thursday, April 30, 2026  	| Presentations                                                                                      	|                     	|        	|
